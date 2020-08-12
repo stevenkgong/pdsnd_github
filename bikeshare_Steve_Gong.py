@@ -198,7 +198,7 @@ def user_stats(df):
     df['Current Year'] = datetime.date.today().year
     df['Age'] = df['Current Year'] - df['Birth Year']
     average_age = df['Age'].mean()
-    print("Average age of a rider is: ", int(average_age))
+    print("The average age of a rider is: ", int(average_age))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
