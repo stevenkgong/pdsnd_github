@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on August 10th
 
 ### Project Title
-Replace the Project Title
+Bikeshare Python Data Analysis - Now For Version Control Project
+
 
 ### Description
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
-
+bikeshare_steve_gong.py
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+csv datafiles are provided by Udacity and the python script is by Steve Gong
 
