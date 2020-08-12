@@ -9,6 +9,10 @@ Describe what your project is about and what it does
 
 ### Files used
 The files used include three csv datafiles
+The files are:
+new york.csv
+washington.csv
+chicago.csv 
 
 ### Credits
-csv datfiles are provided by Udacity and the python script is by Steve Gong
+csv datafiles are provided by Udacity and the python script is by Steve Gong
