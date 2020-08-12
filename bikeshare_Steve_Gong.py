@@ -25,7 +25,7 @@ def get_filters():
     city = input("Enter a city: ")
 
     while city.lower() != 'chicago' and city.lower() != 'new york' and city.lower() != 'washington':
-        city = input("Wrong City, Enter a city: ")
+        city = input("Wrong City, Enter a city (your selections are New York, Chicago or washington): ")
 
     print("You selected City filter is "  + (city.lower()).title())
 
